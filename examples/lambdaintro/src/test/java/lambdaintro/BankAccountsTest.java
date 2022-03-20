@@ -1,6 +1,8 @@
-package lambdaintro;
+package test.java.lambdaintro;
 
 
+import main.java.lambdaintro.BankAccount;
+import main.java.lambdaintro.BankAccounts;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;

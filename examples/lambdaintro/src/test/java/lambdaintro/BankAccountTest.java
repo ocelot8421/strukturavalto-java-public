@@ -1,4 +1,4 @@
-package lambdaintro;
+package test.java.lambdaintro;
 
 
 import org.junit.jupiter.api.Test;
