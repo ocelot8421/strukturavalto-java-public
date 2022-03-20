@@ -1,6 +1,7 @@
 package lambdaintro;
 
 
+import main.java.lambdaintro.FamilyBirthdays;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;

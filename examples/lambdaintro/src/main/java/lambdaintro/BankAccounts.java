@@ -15,4 +15,12 @@ public class BankAccounts {
     public List<BankAccount> listBankAccountsByBalance() {
         return null;
     }
+
+    public List<BankAccount> listBankAccountsByBalanceDesc() {
+        return null;
+    }
+
+    public List<BankAccount> listBankAccountsByNameThanAccountNumber() {
+        return null;
+    }
 }

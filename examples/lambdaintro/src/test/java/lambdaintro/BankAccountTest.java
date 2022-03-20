@@ -1,6 +1,7 @@
 package test.java.lambdaintro;
 
 
+import main.java.lambdaintro.BankAccount;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
